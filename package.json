@@ -76,7 +76,7 @@
     "redux-persist": "^4.8.0",
     "redux-thunk": "^2.2.0",
     "rimraf": "^2.6.1",
-    "sequelize": "^4.3.2",
+    "sequelize": "^5.15.1",
     "startaudiocontext": "^1.2.1",
     "sweetalert2": "^6.6.6",
     "tinycolor2": "^1.4.1",
